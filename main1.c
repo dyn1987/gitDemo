@@ -2,6 +2,6 @@
 int main
 {
     int b = 0;
-    int jk = 1;
+    int j =90;
     return 1;
 }
